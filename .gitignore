@@ -243,3 +243,7 @@ sftp-config.json
 
 ## pycache
 __pycache__
+
+# modules
+constitution
+tex-commands
